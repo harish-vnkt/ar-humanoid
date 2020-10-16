@@ -16,7 +16,6 @@ public class MoveCat : MonoBehaviour
         targetRotation = transform.localRotation;
         speed = speed * transform.localScale.x;
         source = transform.localPosition;
-        Debug.Log(source);
         destination = target.transform.localPosition;
     }
 

@@ -19,13 +19,11 @@ public class TriggerButton : MonoBehaviour
     }
 
     public void OnButtonPressed(VirtualButtonBehaviour vb) {
-        Debug.Log("Button Pressed");
         humanoidAnimator.SetTrigger("TriggerGoal");
         humanoidAudioSource.Play();
     }
 
     public void OnButtonReleased(VirtualButtonBehaviour vb) {
-        Debug.Log("Button Released");
     }
 
     // Update is called once per frame
