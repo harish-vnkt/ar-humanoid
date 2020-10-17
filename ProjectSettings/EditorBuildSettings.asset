@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lifesize.unity
+    guid: 676df6bf3d5ddb94b89e7c6529dbd6e1
   m_configObjects: {}

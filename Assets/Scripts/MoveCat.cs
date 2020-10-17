@@ -8,7 +8,7 @@ public class MoveCat : MonoBehaviour
     Vector3 source;
     Vector3 destination;
     Quaternion targetRotation;
-    float speed = 1;
+    public float speed = 0.1f;
     float t;
     // Start is called before the first frame update
     void Start()
