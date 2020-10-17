@@ -214,7 +214,7 @@ Transform:
   m_GameObject: {fileID: 4437994181887602950}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.00022506714, y: 0.0409, z: -0.0018}
-  m_LocalScale: {x: 0.07, y: 0.03, z: 0.02}
+  m_LocalScale: {x: 0.01290038, y: 0.0050733164, z: 0.0026287555}
   m_Children:
   - {fileID: 4437994181730670432}
   - {fileID: 4437994180396892977}
@@ -296,6 +296,7 @@ GameObject:
   - component: {fileID: 4437994181998595419}
   - component: {fileID: 4437994181998595418}
   - component: {fileID: 4437994181998595417}
+  - component: {fileID: 405794278}
   m_Layer: 0
   m_Name: ClockText
   m_TagString: Untagged
@@ -488,3 +489,15 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   m_maskType: 0
+--- !u!114 &405794278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4437994181998595422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3b921eb9e5dbab4aac523424374ac01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
