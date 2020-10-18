@@ -53,7 +53,7 @@ __Laid-back persona__
 
 __Workout persona__
 
-![alt-text](readme_resources/screenshot-3.png) 
+![alt-text](readme_resources/screenshot-3.jpeg) 
 
 __Lifesize playset__
 
