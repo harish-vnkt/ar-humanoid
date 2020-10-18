@@ -1243,7 +1243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   humanoidAnimator: {fileID: 1428908757}
   mainPlayset: {fileID: 1063335990}
-  minimumDistance: 0.3
+  minimumDistance: 0.1
   humanoidAudioSource: {fileID: 1428908758}
 --- !u!1 &908414188 stripped
 GameObject:
@@ -2577,6 +2577,10 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1916096565}
+    - target: {fileID: 165058957, guid: 076879464bd682945aa7cd31ae139a36, type: 3}
+      propertyPath: speed
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1526554761915109350, guid: 076879464bd682945aa7cd31ae139a36,
         type: 3}
       propertyPath: m_Name
